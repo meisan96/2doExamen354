@@ -2,4 +2,4 @@
 
 Pregunta 2
 
-Dado la función y= x3+x2+x, en excel realice al menos tres generaciones del funcionamiento del algoritmo genético, programe la misma sin librerías.
+Dado la función y= x^3+x^2+x, en excel realice al menos tres generaciones del funcionamiento del algoritmo genético, programe la misma sin librerías.
