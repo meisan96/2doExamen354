@@ -12,6 +12,6 @@ Cota Cota_____|.....25......|......29......|....27.....|......0......|
 
 Definir el archivo CSV, obtener el mejor recorrido usando algoritmos genéticos, utilizando:
 
-· DEAP
+· DEAP -----> solucion en Pregunta_1_1.py
 
-· Sin ningún uso de librerías
+· Sin ningún uso de librerías -----> solucion en Pregunta_1_2.py
