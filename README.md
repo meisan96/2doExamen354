@@ -10,10 +10,8 @@ Nombre: Machaca Mamani Rodrigo Moises Materia: INF-354
 .................Cota Cota...|.....25......|......29......|....27.....|......0......|........................
 
 Definir el archivo CSV, obtener el mejor recorrido usando algoritmos genéticos, utilizando: 
-
-· DEAP 
-
-· Sin ningún uso de librerías
+	· DEAP 
+	· Sin ningún uso de librerías
 
 2.Dado la función y= x3+x2+x, en excel realice al menos tres generaciones del funcionamiento del algoritmo genético, programe la misma sin librerías.
 
