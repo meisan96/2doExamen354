@@ -1,3 +1,6 @@
+#2do Examen Inf354
+Machaca Mamani Rodrigo Moises
+
 1.Dado el siguiente grafo:
 
 _____________|..Monoblock..|..Ingenieria..|..Derecho..|..Cota Cota..|
